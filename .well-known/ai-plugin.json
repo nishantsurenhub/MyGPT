@@ -1,0 +1,18 @@
+{
+  "schema_version": "v1",
+  "name_for_model": "MyApp Plugin",
+  "name_for_human": "MyApp",
+  "description_for_model": "Plugin for accessing MyApp's API to get item details.",
+  "description_for_human": "Interact with MyApp to retrieve item information and perform tasks.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "http://localhost:3000/openapi.yaml"
+  },
+  "logo_url": "http://localhost:3000/logo.png",
+  "contact_email": "support@myapp.com",
+  "legal_info_url": "http://localhost:3000/legal"
+}
+
