@@ -12,6 +12,12 @@ paths:
       description: Retrieves a tempolate information for a given industry and keyword
       operationId: getIndustryCultureContent
       parameters:
+        - name: industry
+          in: path
+          required: true
+          description: Category of product
+          schema:
+            type: string
         - name: keywords
           in: query
           required: true
