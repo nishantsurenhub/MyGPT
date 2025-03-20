@@ -6,28 +6,6 @@ info:
 servers:
   - url: https://gallery-content-query.cdn.vpsvc.com
 paths:
-  /api/items:
-    get:
-      summary: Get a list of items
-      responses:
-        '200':
-          description: A list of items
-          content:
-            application/json:
-              schema:
-                type: array
-                items:
-                  type: object
-                  properties:
-                    id:
-                      type: integer
-                      example: 1
-                    name:
-                      type: string
-                      example: "Item 1"
-                    description:
-                      type: string
-                      example: "This is item 1"
   /api/v2/Galleries/{industry}/Culture/en-us/Content:
     get:
       summary: Get a template
