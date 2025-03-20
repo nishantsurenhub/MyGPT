@@ -9,13 +9,8 @@ paths:
   /api/v2/Galleries/{industry}/Culture/en-us/Content:
     get:
       summary: Get a template
+      description: Retrieves a tempolate information for a given industry and keyword
       parameters:
-        - name: userId
-          in: path
-          required: true
-          description: The ID of the user
-          schema:
-            type: string
         - name: keywords
           in: query
           required: true
@@ -38,6 +33,7 @@ paths:
             default: 2
       responses:
         '200':
+          description: Successfully retrieves a template
           type: object
           required: []
           properties:
@@ -360,4 +356,4 @@ paths:
             total:
               type: number
         '404':
-          description: Post not found
+          description: Template with given parameters not found
