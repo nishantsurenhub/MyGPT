@@ -10,6 +10,7 @@ paths:
     get:
       summary: Get a template
       description: Retrieves a tempolate information for a given industry and keyword
+      operationId: getIndustryCultureContent
       parameters:
         - name: keywords
           in: query
