@@ -4,7 +4,7 @@ info:
   description: API for interacting with MyApp to fetch item details.
   version: 'v1'
 servers:
-  - url: http://localhost:3000
+  - url: https://gallery-content-query.cdn.vpsvc.com
 paths:
   /api/items:
     get:
@@ -28,4 +28,358 @@ paths:
                     description:
                       type: string
                       example: "This is item 1"
-
+  /api/v2/Galleries/{industry}/Culture/en-us/Content:
+    get:
+      summary: Get a template
+      parameters:
+        - name: userId
+          in: path
+          required: true
+          description: The ID of the user
+          schema:
+            type: string
+        - name: keywords
+          in: query
+          required: true
+          description: Find a template with specified keyword
+          schema:
+            type: string
+        - name: requestor
+          in: query
+          required: true
+          description: Who requested
+          schema:
+            type: string
+            default: content-query-swagger
+        - name: limit
+          in: query
+          required: false
+          description: Number of templates to return per page
+          schema:
+            type: integer
+            default: 2
+      responses:
+        '200':
+          type: object
+          required: []
+          properties:
+            results:
+              type: object
+              required: []
+              properties:
+                content:
+                  type: array
+                  items:
+                    type: object
+                    required: []
+                    properties:
+                      designId:
+                        type: string
+                      designConceptId:
+                        type: string
+                      designConceptName:
+                        type: string
+                      altText:
+                        type: string
+                      legacyComboId:
+                        type: string
+                      comparativeName:
+                        type: string
+                      finishFlagTreatment:
+                        type: string
+                      ranking:
+                        type: string
+                      isForceRanked:
+                        type: string
+                      studioUrl:
+                        type: string
+                      productKey:
+                        type: string
+                      productVersion:
+                        type: string
+                      previewUrls:
+                        type: object
+                        required: []
+                        properties:
+                          size1x:
+                            type: string
+                          size2x:
+                            type: string
+                      previewInfo:
+                        type: object
+                        required: []
+                        properties:
+                          templateToken:
+                            type: string
+                          designId:
+                            type: string
+                          dps:
+                            type: string
+                          aspectRatio:
+                            type: number
+                          finishType:
+                            type: string
+                          scenes:
+                            type: object
+                            required: []
+                            properties:
+                              gallery:
+                                type: object
+                                required: []
+                                properties:
+                                  uri:
+                                    type: string
+                                  aspectRatio:
+                                    type: number
+                                  sceneType:
+                                    type: string
+                          imageCacheVersion:
+                            type: string
+                          instructionsUrl:
+                            type: string
+                      colorSwatches:
+                        type: array
+                        items:
+                          type: object
+                          required: []
+                          properties:
+                            designId:
+                              type: string
+                            isMainSwatch:
+                              type: boolean
+                            color:
+                              type: string
+                            studioUrl:
+                              type: string
+                            altText:
+                              type: string
+                            colorComposition:
+                              type: array
+                              items:
+                                type: object
+                                required: []
+                                properties:
+                                  color:
+                                    type: string
+                                  weight:
+                                    type: number
+                            designColors:
+                              type: array
+                              items:
+                                type: object
+                                required: []
+                                properties:
+                                  rgb:
+                                    type: object
+                                    required: []
+                                    properties:
+                                      r:
+                                        type: number
+                                      g:
+                                        type: number
+                                      b:
+                                        type: number
+                                  weight:
+                                    type: number
+                            differentialColors:
+                              type: array
+                              items:
+                                type: object
+                                required: []
+                                properties:
+                                  color:
+                                    type: string
+                                  weight:
+                                    type: number
+                            previewUrls:
+                              type: object
+                              required: []
+                              properties:
+                                size1x:
+                                  type: string
+                                size2x:
+                                  type: string
+                            previewInfo:
+                              type: object
+                              required: []
+                              properties:
+                                templateToken:
+                                  type: string
+                                designId:
+                                  type: string
+                                dps:
+                                  type: string
+                                aspectRatio:
+                                  type: number
+                                finishType:
+                                  type: string
+                                scenes:
+                                  type: object
+                                  required: []
+                                  properties:
+                                    gallery:
+                                      type: object
+                                      required: []
+                                      properties:
+                                        uri:
+                                          type: string
+                                        aspectRatio:
+                                          type: number
+                                        sceneType:
+                                          type: string
+                                imageCacheVersion:
+                                  type: string
+                                instructionsUrl:
+                                  type: string
+                            isLightColor:
+                              type: string
+                            externalId:
+                              type: string
+                      selectedColorSwatchDesignId:
+                        type: string
+                      productOptions:
+                        type: object
+                        required: []
+                        properties:
+                          Finish:
+                            type: string
+                          Shape:
+                            type: string
+                          Corners:
+                            type: string
+                          Substrate:
+                            type: string
+                          Product Orientation:
+                            type: string
+                      fullProductOptions:
+                        type: object
+                        required: []
+                        properties:
+                          Finish:
+                            type: string
+                          Backsides:
+                            type: string
+                          Shape:
+                            type: string
+                          Corners:
+                            type: string
+                          Thickness:
+                            type: string
+                          Substrate:
+                            type: string
+                          Product Orientation:
+                            type: string
+                          Connected Cards:
+                            type: string
+                      keywords:
+                        type: string
+                      categoryNames:
+                        type: string
+                      categoryKeys:
+                        type: string
+                      templateUseCases:
+                        type: array
+                        items:
+                          type: string
+                      numberOfPlaceholders:
+                        type: string
+                      colorComposition:
+                        type: array
+                        items:
+                          type: object
+                          required: []
+                          properties:
+                            color:
+                              type: string
+                            weight:
+                              type: number
+                      designColors:
+                        type: array
+                        items:
+                          type: object
+                          required: []
+                          properties:
+                            rgb:
+                              type: object
+                              required: []
+                              properties:
+                                r:
+                                  type: number
+                                g:
+                                  type: number
+                                b:
+                                  type: number
+                            weight:
+                              type: number
+                      differentialColors:
+                        type: array
+                        items:
+                          type: object
+                          required: []
+                          properties:
+                            color:
+                              type: string
+                            weight:
+                              type: number
+                      designCreationType:
+                        type: string
+                      availableOptionsForExpansion:
+                        type: object
+                        required: []
+                        properties:
+                          Finish:
+                            type: array
+                            items:
+                              type: string
+                          Shape:
+                            type: array
+                            items:
+                              type: string
+                          Corners:
+                            type: array
+                            items:
+                              type: string
+                          Substrate:
+                            type: array
+                            items:
+                              type: string
+                          Product Orientation:
+                            type: array
+                            items:
+                              type: string
+                      availableTemplateUseCasesForExpansion:
+                        type: object
+                        required: []
+                        properties: {}
+                      externalId:
+                        type: string
+                      templateUseCase:
+                        type: string
+                      boostInfo:
+                        type: string
+                facets:
+                  type: array
+                  items:
+                    type: object
+                    required: []
+                    properties:
+                      facetType:
+                        type: string
+                      facet:
+                        type: string
+                      count:
+                        type: number
+                numFound:
+                  type: number
+                debugState:
+                  type: string
+                boostInfo:
+                  type: string
+            offset:
+              type: string
+            length:
+              type: number
+            total:
+              type: number
+        '404':
+          description: Post not found

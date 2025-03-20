@@ -1,15 +1,15 @@
 {
   "schema_version": "v1",
-  "name_for_model": "MyApp Plugin",
-  "name_for_human": "MyApp",
-  "description_for_model": "Plugin for accessing MyApp's API to get item details.",
-  "description_for_human": "Interact with MyApp to retrieve item information and perform tasks.",
+  "name_for_model": "VPG",
+  "name_for_human": "Vista Print Gallery",
+  "description_for_model": "Service to provide templates for the designs",
+  "description_for_human": "Service to provide templates for the designs",
   "auth": {
     "type": "none"
   },
   "api": {
     "type": "openapi",
-    "url": "http://localhost:3000/openapi.yaml"
+    "url": "https://raw.githubusercontent.com/nishantsurenhub/MyGPT/refs/heads/main/openapi.yaml"
   },
   "logo_url": "http://localhost:3000/logo.png",
   "contact_email": "support@myapp.com",
