@@ -1,0 +1,415 @@
+{
+  "results": {
+    "content": [
+      {
+        "designId": "08d97ecd-d8cf-4336-8d3a-1f009c1f08f6",
+        "designConceptId": "35656",
+        "designConceptName": "Twinkle Twinkle Little Star template with gold stars and moon",
+        "altText": "A cute stars white gray design for Baby",
+        "legacyComboId": "5389231",
+        "comparativeName": "Standard (3.5\" x 2\")",
+        "finishFlagTreatment": null,
+        "ranking": 0,
+        "isForceRanked": false,
+        "studioUrl": "/studio?key=PRD-IYXT1T3V&productVersion=44&locale=en-us&selectedOptions=%7b%22Finish%22%3a%22None%22%2c%22Shape%22%3a%22Standard%22%2c%22Corners%22%3a%22Standard+Corners%22%2c%22Substrate%22%3a%22Glossy%22%2c%22Product+Orientation%22%3a%22Horizontal%22%7d&template=c5389231..f9c58b2a-e04f-4251-a983-6eb421ba478d",
+        "productKey": "PRD-IYXT1T3V",
+        "productVersion": "44",
+        "previewUrls": {
+          "size1x": "//rendering.mcp.cimpress.com/v2/vp/preview?category=gp&format=auto&quality=85&instructions_uri=https%3A%2F%2Finstructions.documents.cimpress.io%2Fv3%2Finstructions%3Apreview%3FignoreProjection%3DTrue%26documentUri%3Dhttps%253A%252F%252Fdesign-specifications.design.vpsvc.com%252Fv2%252FrenderDocuments%252Fproducts%252FPRD-IYXT1T3V%252F44%252Ftemplates%252Fc5389231..f9c58b2a-e04f-4251-a983-6eb421ba478d%253Fculture%253Den-us%2526useFakeFamily%253Dfalse%2526requester%253Dgallery-content-query%2526optionSelections%25255BFinish%25255D%253DNone%2526optionSelections%25255BBacksides%25255D%253DBlank%2526optionSelections%25255BShape%25255D%253DStandard%2526optionSelections%25255BCorners%25255D%253DStandard+Corners%2526optionSelections%25255BThickness%25255D%253DStandard%2526optionSelections%25255BSubstrate%25255D%253DGlossy%2526optionSelections%25255BProduct+Orientation%25255D%253DHorizontal%2526optionSelections%25255BConnected+Cards%25255D%253DNone&merchant_metadata=c5389231..f9c58b2a-e04f-4251-a983-6eb421ba478d&scene=https%3a%2f%2fscenes.documents.cimpress.io%2fv3%2fscenes%3agenerate%3fdata%3dlY%252FBbsMgEET%252FZc7Ish27TfiGHiK1tyoHAgij2mDBWolr8e%252BVcdQ06qW9rGZHzNthwcUq6sD3dcPQaWs6Am%252F2NUPsPYEvGIXR4BXDIOLHatA8anBQsANSYpDekb7mt7ETyl9WJX3vwyoCeMlg8jznKcCrtkwMwpleZ0vZSMLJbYn2cxVFWa30MXg1yUy%252FVcWhqJ5rOeBeGG2xe9qsOJ0jBUH6R1XT%252BxhnJLaVzvUc%252BSlE8PcFsvdRK3AKk2aIJAIdvXX55hUcZVE1mT3fl9u%252F%252FRRetRm0ow11O%252FhinX7zYNBOPaAORbn7hUrsn8G2qOu%252FBh%252FKfwdP6ZRS%252BgI%253D&width=412",
+          "size2x": "//rendering.mcp.cimpress.com/v2/vp/preview?category=gp&format=auto&quality=85&instructions_uri=https%3A%2F%2Finstructions.documents.cimpress.io%2Fv3%2Finstructions%3Apreview%3FignoreProjection%3DTrue%26documentUri%3Dhttps%253A%252F%252Fdesign-specifications.design.vpsvc.com%252Fv2%252FrenderDocuments%252Fproducts%252FPRD-IYXT1T3V%252F44%252Ftemplates%252Fc5389231..f9c58b2a-e04f-4251-a983-6eb421ba478d%253Fculture%253Den-us%2526useFakeFamily%253Dfalse%2526requester%253Dgallery-content-query%2526optionSelections%25255BFinish%25255D%253DNone%2526optionSelections%25255BBacksides%25255D%253DBlank%2526optionSelections%25255BShape%25255D%253DStandard%2526optionSelections%25255BCorners%25255D%253DStandard+Corners%2526optionSelections%25255BThickness%25255D%253DStandard%2526optionSelections%25255BSubstrate%25255D%253DGlossy%2526optionSelections%25255BProduct+Orientation%25255D%253DHorizontal%2526optionSelections%25255BConnected+Cards%25255D%253DNone&merchant_metadata=c5389231..f9c58b2a-e04f-4251-a983-6eb421ba478d&scene=https%3a%2f%2fscenes.documents.cimpress.io%2fv3%2fscenes%3agenerate%3fdata%3dlY%252FBbsMgEET%252FZc7Ish27TfiGHiK1tyoHAgij2mDBWolr8e%252BVcdQ06qW9rGZHzNthwcUq6sD3dcPQaWs6Am%252F2NUPsPYEvGIXR4BXDIOLHatA8anBQsANSYpDekb7mt7ETyl9WJX3vwyoCeMlg8jznKcCrtkwMwpleZ0vZSMLJbYn2cxVFWa30MXg1yUy%252FVcWhqJ5rOeBeGG2xe9qsOJ0jBUH6R1XT%252BxhnJLaVzvUc%252BSlE8PcFsvdRK3AKk2aIJAIdvXX55hUcZVE1mT3fl9u%252F%252FRRetRm0ow11O%252FhinX7zYNBOPaAORbn7hUrsn8G2qOu%252FBh%252FKfwdP6ZRS%252BgI%253D&width=824"
+        },
+        "previewInfo": {
+          "templateToken": "c5389231..f9c58b2a-e04f-4251-a983-6eb421ba478d",
+          "designId": "08d97ecd-d8cf-4336-8d3a-1f009c1f08f6",
+          "dps": "f9c58b2a-e04f-4251-a983-6eb421ba478d",
+          "aspectRatio": 1.71055579185486,
+          "finishType": "None",
+          "scenes": {
+            "gallery": {
+              "uri": "https://scenes.documents.cimpress.io/v3/scenes:generate?data=lY%2FBbsMgEET%2FZc7Ish27TfiGHiK1tyoHAgij2mDBWolr8e%2BVcdQ06qW9rGZHzNthwcUq6sD3dcPQaWs6Am%2F2NUPsPYEvGIXR4BXDIOLHatA8anBQsANSYpDekb7mt7ETyl9WJX3vwyoCeMlg8jznKcCrtkwMwpleZ0vZSMLJbYn2cxVFWa30MXg1yUy%2FVcWhqJ5rOeBeGG2xe9qsOJ0jBUH6R1XT%2BxhnJLaVzvUc%2BSlE8PcFsvdRK3AKk2aIJAIdvXX55hUcZVE1mT3fl9u%2F%2FRRetRm0ow11O%2FhinX7zYNBOPaAORbn7hUrsn8G2qOu%2FBh%2FKfwdP6ZRS%2BgI%3D",
+              "aspectRatio": 1.70954356846473,
+              "sceneType": "Dynamic"
+            }
+          },
+          "imageCacheVersion": null,
+          "instructionsUrl": "https://instructions.documents.cimpress.io/v3/instructions:preview?ignoreProjection=True&documentUri=https%3A%2F%2Fdesign-specifications.design.vpsvc.com%2Fv2%2FrenderDocuments%2Fproducts%2FPRD-IYXT1T3V%2F44%2Ftemplates%2Fc5389231..f9c58b2a-e04f-4251-a983-6eb421ba478d%3Fculture%3Den-us%26useFakeFamily%3Dfalse%26requester%3Dgallery-content-query%26optionSelections%255BFinish%255D%3DNone%26optionSelections%255BBacksides%255D%3DBlank%26optionSelections%255BShape%255D%3DStandard%26optionSelections%255BCorners%255D%3DStandard Corners%26optionSelections%255BThickness%255D%3DStandard%26optionSelections%255BSubstrate%255D%3DGlossy%26optionSelections%255BProduct Orientation%255D%3DHorizontal%26optionSelections%255BConnected Cards%255D%3DNone"
+        },
+        "colorSwatches": [
+          {
+            "designId": "5389231",
+            "isMainSwatch": true,
+            "color": "#F9FCFC",
+            "studioUrl": "/studio?key=PRD-IYXT1T3V&productVersion=44&locale=en-us&selectedOptions=%7b%22Finish%22%3a%22None%22%2c%22Shape%22%3a%22Standard%22%2c%22Corners%22%3a%22Standard+Corners%22%2c%22Substrate%22%3a%22Glossy%22%2c%22Product+Orientation%22%3a%22Horizontal%22%7d&template=c5389231..f9c58b2a-e04f-4251-a983-6eb421ba478d",
+            "altText": "A cute stars white gray design for Baby",
+            "colorComposition": [
+              {
+                "color": "#FCFDFD",
+                "weight": 73
+              },
+              {
+                "color": "#DEEFEE",
+                "weight": 21
+              },
+              {
+                "color": "#E4D5A2",
+                "weight": 4
+              }
+            ],
+            "designColors": [
+              {
+                "rgb": {
+                  "r": 252,
+                  "g": 253,
+                  "b": 253
+                },
+                "weight": 73
+              },
+              {
+                "rgb": {
+                  "r": 222,
+                  "g": 239,
+                  "b": 238
+                },
+                "weight": 21
+              },
+              {
+                "rgb": {
+                  "r": 228,
+                  "g": 213,
+                  "b": 162
+                },
+                "weight": 4
+              }
+            ],
+            "differentialColors": [
+              {
+                "color": "#F9FCFC",
+                "weight": 38
+              },
+              {
+                "color": "#E9F5F5",
+                "weight": 36
+              },
+              {
+                "color": "#D7EBEC",
+                "weight": 25
+              }
+            ],
+            "previewUrls": {
+              "size1x": "//rendering.mcp.cimpress.com/v2/vp/preview?category=gp&format=auto&quality=85&instructions_uri=https%3A%2F%2Finstructions.documents.cimpress.io%2Fv3%2Finstructions%3Apreview%3FignoreProjection%3DTrue%26documentUri%3Dhttps%253A%252F%252Fdesign-specifications.design.vpsvc.com%252Fv2%252FrenderDocuments%252Fproducts%252FPRD-IYXT1T3V%252F44%252Ftemplates%252Fc5389231..f9c58b2a-e04f-4251-a983-6eb421ba478d%253Fculture%253Den-us%2526useFakeFamily%253Dfalse%2526requester%253Dgallery-content-query%2526optionSelections%25255BFinish%25255D%253DNone%2526optionSelections%25255BBacksides%25255D%253DBlank%2526optionSelections%25255BShape%25255D%253DStandard%2526optionSelections%25255BCorners%25255D%253DStandard+Corners%2526optionSelections%25255BThickness%25255D%253DStandard%2526optionSelections%25255BSubstrate%25255D%253DGlossy%2526optionSelections%25255BProduct+Orientation%25255D%253DHorizontal%2526optionSelections%25255BConnected+Cards%25255D%253DNone&merchant_metadata=c5389231..f9c58b2a-e04f-4251-a983-6eb421ba478d&scene=https%3a%2f%2fscenes.documents.cimpress.io%2fv3%2fscenes%3agenerate%3fdata%3dlY%252FBbsMgEET%252FZc7Ish27TfiGHiK1tyoHAgij2mDBWolr8e%252BVcdQ06qW9rGZHzNthwcUq6sD3dcPQaWs6Am%252F2NUPsPYEvGIXR4BXDIOLHatA8anBQsANSYpDekb7mt7ETyl9WJX3vwyoCeMlg8jznKcCrtkwMwpleZ0vZSMLJbYn2cxVFWa30MXg1yUy%252FVcWhqJ5rOeBeGG2xe9qsOJ0jBUH6R1XT%252BxhnJLaVzvUc%252BSlE8PcFsvdRK3AKk2aIJAIdvXX55hUcZVE1mT3fl9u%252F%252FRRetRm0ow11O%252FhinX7zYNBOPaAORbn7hUrsn8G2qOu%252FBh%252FKfwdP6ZRS%252BgI%253D&width=412",
+              "size2x": "//rendering.mcp.cimpress.com/v2/vp/preview?category=gp&format=auto&quality=85&instructions_uri=https%3A%2F%2Finstructions.documents.cimpress.io%2Fv3%2Finstructions%3Apreview%3FignoreProjection%3DTrue%26documentUri%3Dhttps%253A%252F%252Fdesign-specifications.design.vpsvc.com%252Fv2%252FrenderDocuments%252Fproducts%252FPRD-IYXT1T3V%252F44%252Ftemplates%252Fc5389231..f9c58b2a-e04f-4251-a983-6eb421ba478d%253Fculture%253Den-us%2526useFakeFamily%253Dfalse%2526requester%253Dgallery-content-query%2526optionSelections%25255BFinish%25255D%253DNone%2526optionSelections%25255BBacksides%25255D%253DBlank%2526optionSelections%25255BShape%25255D%253DStandard%2526optionSelections%25255BCorners%25255D%253DStandard+Corners%2526optionSelections%25255BThickness%25255D%253DStandard%2526optionSelections%25255BSubstrate%25255D%253DGlossy%2526optionSelections%25255BProduct+Orientation%25255D%253DHorizontal%2526optionSelections%25255BConnected+Cards%25255D%253DNone&merchant_metadata=c5389231..f9c58b2a-e04f-4251-a983-6eb421ba478d&scene=https%3a%2f%2fscenes.documents.cimpress.io%2fv3%2fscenes%3agenerate%3fdata%3dlY%252FBbsMgEET%252FZc7Ish27TfiGHiK1tyoHAgij2mDBWolr8e%252BVcdQ06qW9rGZHzNthwcUq6sD3dcPQaWs6Am%252F2NUPsPYEvGIXR4BXDIOLHatA8anBQsANSYpDekb7mt7ETyl9WJX3vwyoCeMlg8jznKcCrtkwMwpleZ0vZSMLJbYn2cxVFWa30MXg1yUy%252FVcWhqJ5rOeBeGG2xe9qsOJ0jBUH6R1XT%252BxhnJLaVzvUc%252BSlE8PcFsvdRK3AKk2aIJAIdvXX55hUcZVE1mT3fl9u%252F%252FRRetRm0ow11O%252FhinX7zYNBOPaAORbn7hUrsn8G2qOu%252FBh%252FKfwdP6ZRS%252BgI%253D&width=824"
+            },
+            "previewInfo": {
+              "templateToken": "c5389231..f9c58b2a-e04f-4251-a983-6eb421ba478d",
+              "designId": "08d97ecd-d8cf-4336-8d3a-1f009c1f08f6",
+              "dps": "f9c58b2a-e04f-4251-a983-6eb421ba478d",
+              "aspectRatio": 1.71055579185486,
+              "finishType": "None",
+              "scenes": {
+                "gallery": {
+                  "uri": "https://scenes.documents.cimpress.io/v3/scenes:generate?data=lY%2FBbsMgEET%2FZc7Ish27TfiGHiK1tyoHAgij2mDBWolr8e%2BVcdQ06qW9rGZHzNthwcUq6sD3dcPQaWs6Am%2F2NUPsPYEvGIXR4BXDIOLHatA8anBQsANSYpDekb7mt7ETyl9WJX3vwyoCeMlg8jznKcCrtkwMwpleZ0vZSMLJbYn2cxVFWa30MXg1yUy%2FVcWhqJ5rOeBeGG2xe9qsOJ0jBUH6R1XT%2BxhnJLaVzvUc%2BSlE8PcFsvdRK3AKk2aIJAIdvXX55hUcZVE1mT3fl9u%2F%2FRRetRm0ow11O%2FhinX7zYNBOPaAORbn7hUrsn8G2qOu%2FBh%2FKfwdP6ZRS%2BgI%3D",
+                  "aspectRatio": 1.70954356846473,
+                  "sceneType": "Dynamic"
+                }
+              },
+              "imageCacheVersion": null,
+              "instructionsUrl": "https://instructions.documents.cimpress.io/v3/instructions:preview?ignoreProjection=True&documentUri=https%3A%2F%2Fdesign-specifications.design.vpsvc.com%2Fv2%2FrenderDocuments%2Fproducts%2FPRD-IYXT1T3V%2F44%2Ftemplates%2Fc5389231..f9c58b2a-e04f-4251-a983-6eb421ba478d%3Fculture%3Den-us%26useFakeFamily%3Dfalse%26requester%3Dgallery-content-query%26optionSelections%255BFinish%255D%3DNone%26optionSelections%255BBacksides%255D%3DBlank%26optionSelections%255BShape%255D%3DStandard%26optionSelections%255BCorners%255D%3DStandard Corners%26optionSelections%255BThickness%255D%3DStandard%26optionSelections%255BSubstrate%255D%3DGlossy%26optionSelections%255BProduct Orientation%255D%3DHorizontal%26optionSelections%255BConnected Cards%255D%3DNone"
+            },
+            "isLightColor": false,
+            "externalId": "c5389231..f9c58b2a-e04f-4251-a983-6eb421ba478d"
+          },
+          {
+            "designId": "5389232",
+            "isMainSwatch": false,
+            "color": "#FEFBFA",
+            "studioUrl": "/studio?key=PRD-IYXT1T3V&productVersion=44&locale=en-us&selectedOptions=%7b%22Finish%22%3a%22None%22%2c%22Shape%22%3a%22Standard%22%2c%22Corners%22%3a%22Standard+Corners%22%2c%22Substrate%22%3a%22Glossy%22%2c%22Product+Orientation%22%3a%22Horizontal%22%7d&template=c5389232..f9c58b2a-e04f-4251-a983-6eb421ba478d",
+            "altText": "A cute stars white gray design for Baby",
+            "colorComposition": [
+              {
+                "color": "#FEFDFD",
+                "weight": 76
+              },
+              {
+                "color": "#FAEBE8",
+                "weight": 18
+              },
+              {
+                "color": "#E6D49F",
+                "weight": 4
+              }
+            ],
+            "designColors": [
+              {
+                "rgb": {
+                  "r": 254,
+                  "g": 253,
+                  "b": 253
+                },
+                "weight": 76
+              },
+              {
+                "rgb": {
+                  "r": 250,
+                  "g": 235,
+                  "b": 232
+                },
+                "weight": 18
+              },
+              {
+                "rgb": {
+                  "r": 230,
+                  "g": 212,
+                  "b": 159
+                },
+                "weight": 4
+              }
+            ],
+            "differentialColors": [
+              {
+                "color": "#FEFBFA",
+                "weight": 49
+              },
+              {
+                "color": "#FCF0EE",
+                "weight": 41
+              },
+              {
+                "color": "#F6E0DF",
+                "weight": 8
+              }
+            ],
+            "previewUrls": {
+              "size1x": "//rendering.mcp.cimpress.com/v2/vp/preview?category=gp&format=auto&quality=85&instructions_uri=https%3A%2F%2Finstructions.documents.cimpress.io%2Fv3%2Finstructions%3Apreview%3FignoreProjection%3DTrue%26documentUri%3Dhttps%253A%252F%252Fdesign-specifications.design.vpsvc.com%252Fv2%252FrenderDocuments%252Fproducts%252FPRD-IYXT1T3V%252F44%252Ftemplates%252Fc5389232..f9c58b2a-e04f-4251-a983-6eb421ba478d%253Fculture%253Den-us%2526useFakeFamily%253Dfalse%2526requester%253Dgallery-content-query%2526optionSelections%25255BFinish%25255D%253DNone%2526optionSelections%25255BBacksides%25255D%253DBlank%2526optionSelections%25255BShape%25255D%253DStandard%2526optionSelections%25255BCorners%25255D%253DStandard+Corners%2526optionSelections%25255BThickness%25255D%253DStandard%2526optionSelections%25255BSubstrate%25255D%253DGlossy%2526optionSelections%25255BProduct+Orientation%25255D%253DHorizontal%2526optionSelections%25255BConnected+Cards%25255D%253DNone&merchant_metadata=c5389232..f9c58b2a-e04f-4251-a983-6eb421ba478d&scene=https%3a%2f%2fscenes.documents.cimpress.io%2fv3%2fscenes%3agenerate%3fdata%3dlY%252FBbsMgEET%252FZc7Ish27TfiGHiK1tyoHAgij2mDBWolr8e%252BVcdQ06qW9rGZHzNthwcUq6sD3dcPQaWs6Am%252F2NUPsPYEvGIXR4BXDIOLHatA8anBQsANSYpDekb7mt7ETyl9WJX3vwyoCeMlg8jznKcCrtkwMwpleZ0vZSMLJbYn2cxVFWa30MXg1yUy%252FVcWhqJ5rOeBeGG2xe9qsOJ0jBUH6R1XT%252BxhnJLaVzvUc%252BSlE8PcFsvdRK3AKk2aIJAIdvXX55hUcZVE1mT3fl9u%252F%252FRRetRm0ow11O%252FhinX7zYNBOPaAORbn7hUrsn8G2qOu%252FBh%252FKfwdP6ZRS%252BgI%253D&width=412",
+              "size2x": "//rendering.mcp.cimpress.com/v2/vp/preview?category=gp&format=auto&quality=85&instructions_uri=https%3A%2F%2Finstructions.documents.cimpress.io%2Fv3%2Finstructions%3Apreview%3FignoreProjection%3DTrue%26documentUri%3Dhttps%253A%252F%252Fdesign-specifications.design.vpsvc.com%252Fv2%252FrenderDocuments%252Fproducts%252FPRD-IYXT1T3V%252F44%252Ftemplates%252Fc5389232..f9c58b2a-e04f-4251-a983-6eb421ba478d%253Fculture%253Den-us%2526useFakeFamily%253Dfalse%2526requester%253Dgallery-content-query%2526optionSelections%25255BFinish%25255D%253DNone%2526optionSelections%25255BBacksides%25255D%253DBlank%2526optionSelections%25255BShape%25255D%253DStandard%2526optionSelections%25255BCorners%25255D%253DStandard+Corners%2526optionSelections%25255BThickness%25255D%253DStandard%2526optionSelections%25255BSubstrate%25255D%253DGlossy%2526optionSelections%25255BProduct+Orientation%25255D%253DHorizontal%2526optionSelections%25255BConnected+Cards%25255D%253DNone&merchant_metadata=c5389232..f9c58b2a-e04f-4251-a983-6eb421ba478d&scene=https%3a%2f%2fscenes.documents.cimpress.io%2fv3%2fscenes%3agenerate%3fdata%3dlY%252FBbsMgEET%252FZc7Ish27TfiGHiK1tyoHAgij2mDBWolr8e%252BVcdQ06qW9rGZHzNthwcUq6sD3dcPQaWs6Am%252F2NUPsPYEvGIXR4BXDIOLHatA8anBQsANSYpDekb7mt7ETyl9WJX3vwyoCeMlg8jznKcCrtkwMwpleZ0vZSMLJbYn2cxVFWa30MXg1yUy%252FVcWhqJ5rOeBeGG2xe9qsOJ0jBUH6R1XT%252BxhnJLaVzvUc%252BSlE8PcFsvdRK3AKk2aIJAIdvXX55hUcZVE1mT3fl9u%252F%252FRRetRm0ow11O%252FhinX7zYNBOPaAORbn7hUrsn8G2qOu%252FBh%252FKfwdP6ZRS%252BgI%253D&width=824"
+            },
+            "previewInfo": {
+              "templateToken": "c5389232..f9c58b2a-e04f-4251-a983-6eb421ba478d",
+              "designId": "08d97ecd-d8cf-4336-8d3a-1f009c1f08f6",
+              "dps": "f9c58b2a-e04f-4251-a983-6eb421ba478d",
+              "aspectRatio": 1.71055579185486,
+              "finishType": "None",
+              "scenes": {
+                "gallery": {
+                  "uri": "https://scenes.documents.cimpress.io/v3/scenes:generate?data=lY%2FBbsMgEET%2FZc7Ish27TfiGHiK1tyoHAgij2mDBWolr8e%2BVcdQ06qW9rGZHzNthwcUq6sD3dcPQaWs6Am%2F2NUPsPYEvGIXR4BXDIOLHatA8anBQsANSYpDekb7mt7ETyl9WJX3vwyoCeMlg8jznKcCrtkwMwpleZ0vZSMLJbYn2cxVFWa30MXg1yUy%2FVcWhqJ5rOeBeGG2xe9qsOJ0jBUH6R1XT%2BxhnJLaVzvUc%2BSlE8PcFsvdRK3AKk2aIJAIdvXX55hUcZVE1mT3fl9u%2F%2FRRetRm0ow11O%2FhinX7zYNBOPaAORbn7hUrsn8G2qOu%2FBh%2FKfwdP6ZRS%2BgI%3D",
+                  "aspectRatio": 1.70954356846473,
+                  "sceneType": "Dynamic"
+                }
+              },
+              "imageCacheVersion": null,
+              "instructionsUrl": "https://instructions.documents.cimpress.io/v3/instructions:preview?ignoreProjection=True&documentUri=https%3A%2F%2Fdesign-specifications.design.vpsvc.com%2Fv2%2FrenderDocuments%2Fproducts%2FPRD-IYXT1T3V%2F44%2Ftemplates%2Fc5389232..f9c58b2a-e04f-4251-a983-6eb421ba478d%3Fculture%3Den-us%26useFakeFamily%3Dfalse%26requester%3Dgallery-content-query%26optionSelections%255BFinish%255D%3DNone%26optionSelections%255BBacksides%255D%3DBlank%26optionSelections%255BShape%255D%3DStandard%26optionSelections%255BCorners%255D%3DStandard Corners%26optionSelections%255BThickness%255D%3DStandard%26optionSelections%255BSubstrate%255D%3DGlossy%26optionSelections%255BProduct Orientation%255D%3DHorizontal%26optionSelections%255BConnected Cards%255D%3DNone"
+            },
+            "isLightColor": false,
+            "externalId": "c5389232..f9c58b2a-e04f-4251-a983-6eb421ba478d"
+          },
+          {
+            "designId": "5389233",
+            "isMainSwatch": false,
+            "color": "#F6F4F3",
+            "studioUrl": "/studio?key=PRD-IYXT1T3V&productVersion=44&locale=en-us&selectedOptions=%7b%22Finish%22%3a%22None%22%2c%22Shape%22%3a%22Standard%22%2c%22Corners%22%3a%22Standard+Corners%22%2c%22Substrate%22%3a%22Glossy%22%2c%22Product+Orientation%22%3a%22Horizontal%22%7d&template=c5389233..f9c58b2a-e04f-4251-a983-6eb421ba478d",
+            "altText": "A cute stars white cream design for Baby",
+            "colorComposition": [
+              {
+                "color": "#FBFBFA",
+                "weight": 90
+              },
+              {
+                "color": "#E6E0CE",
+                "weight": 6
+              },
+              {
+                "color": "#E2CD8B",
+                "weight": 2
+              }
+            ],
+            "designColors": [
+              {
+                "rgb": {
+                  "r": 251,
+                  "g": 251,
+                  "b": 250
+                },
+                "weight": 90
+              },
+              {
+                "rgb": {
+                  "r": 230,
+                  "g": 224,
+                  "b": 206
+                },
+                "weight": 6
+              },
+              {
+                "rgb": {
+                  "r": 226,
+                  "g": 205,
+                  "b": 139
+                },
+                "weight": 2
+              }
+            ],
+            "differentialColors": [
+              {
+                "color": "#F6F4F3",
+                "weight": 59
+              },
+              {
+                "color": "#FDFDFD",
+                "weight": 27
+              },
+              {
+                "color": "#E6E5E3",
+                "weight": 13
+              }
+            ],
+            "previewUrls": {
+              "size1x": "//rendering.mcp.cimpress.com/v2/vp/preview?category=gp&format=auto&quality=85&instructions_uri=https%3A%2F%2Finstructions.documents.cimpress.io%2Fv3%2Finstructions%3Apreview%3FignoreProjection%3DTrue%26documentUri%3Dhttps%253A%252F%252Fdesign-specifications.design.vpsvc.com%252Fv2%252FrenderDocuments%252Fproducts%252FPRD-IYXT1T3V%252F44%252Ftemplates%252Fc5389233..f9c58b2a-e04f-4251-a983-6eb421ba478d%253Fculture%253Den-us%2526useFakeFamily%253Dfalse%2526requester%253Dgallery-content-query%2526optionSelections%25255BFinish%25255D%253DNone%2526optionSelections%25255BBacksides%25255D%253DBlank%2526optionSelections%25255BShape%25255D%253DStandard%2526optionSelections%25255BCorners%25255D%253DStandard+Corners%2526optionSelections%25255BThickness%25255D%253DStandard%2526optionSelections%25255BSubstrate%25255D%253DGlossy%2526optionSelections%25255BProduct+Orientation%25255D%253DHorizontal%2526optionSelections%25255BConnected+Cards%25255D%253DNone&merchant_metadata=c5389233..f9c58b2a-e04f-4251-a983-6eb421ba478d&scene=https%3a%2f%2fscenes.documents.cimpress.io%2fv3%2fscenes%3agenerate%3fdata%3dlY%252FBbsMgEET%252FZc7Ish27TfiGHiK1tyoHAgij2mDBWolr8e%252BVcdQ06qW9rGZHzNthwcUq6sD3dcPQaWs6Am%252F2NUPsPYEvGIXR4BXDIOLHatA8anBQsANSYpDekb7mt7ETyl9WJX3vwyoCeMlg8jznKcCrtkwMwpleZ0vZSMLJbYn2cxVFWa30MXg1yUy%252FVcWhqJ5rOeBeGG2xe9qsOJ0jBUH6R1XT%252BxhnJLaVzvUc%252BSlE8PcFsvdRK3AKk2aIJAIdvXX55hUcZVE1mT3fl9u%252F%252FRRetRm0ow11O%252FhinX7zYNBOPaAORbn7hUrsn8G2qOu%252FBh%252FKfwdP6ZRS%252BgI%253D&width=412",
+              "size2x": "//rendering.mcp.cimpress.com/v2/vp/preview?category=gp&format=auto&quality=85&instructions_uri=https%3A%2F%2Finstructions.documents.cimpress.io%2Fv3%2Finstructions%3Apreview%3FignoreProjection%3DTrue%26documentUri%3Dhttps%253A%252F%252Fdesign-specifications.design.vpsvc.com%252Fv2%252FrenderDocuments%252Fproducts%252FPRD-IYXT1T3V%252F44%252Ftemplates%252Fc5389233..f9c58b2a-e04f-4251-a983-6eb421ba478d%253Fculture%253Den-us%2526useFakeFamily%253Dfalse%2526requester%253Dgallery-content-query%2526optionSelections%25255BFinish%25255D%253DNone%2526optionSelections%25255BBacksides%25255D%253DBlank%2526optionSelections%25255BShape%25255D%253DStandard%2526optionSelections%25255BCorners%25255D%253DStandard+Corners%2526optionSelections%25255BThickness%25255D%253DStandard%2526optionSelections%25255BSubstrate%25255D%253DGlossy%2526optionSelections%25255BProduct+Orientation%25255D%253DHorizontal%2526optionSelections%25255BConnected+Cards%25255D%253DNone&merchant_metadata=c5389233..f9c58b2a-e04f-4251-a983-6eb421ba478d&scene=https%3a%2f%2fscenes.documents.cimpress.io%2fv3%2fscenes%3agenerate%3fdata%3dlY%252FBbsMgEET%252FZc7Ish27TfiGHiK1tyoHAgij2mDBWolr8e%252BVcdQ06qW9rGZHzNthwcUq6sD3dcPQaWs6Am%252F2NUPsPYEvGIXR4BXDIOLHatA8anBQsANSYpDekb7mt7ETyl9WJX3vwyoCeMlg8jznKcCrtkwMwpleZ0vZSMLJbYn2cxVFWa30MXg1yUy%252FVcWhqJ5rOeBeGG2xe9qsOJ0jBUH6R1XT%252BxhnJLaVzvUc%252BSlE8PcFsvdRK3AKk2aIJAIdvXX55hUcZVE1mT3fl9u%252F%252FRRetRm0ow11O%252FhinX7zYNBOPaAORbn7hUrsn8G2qOu%252FBh%252FKfwdP6ZRS%252BgI%253D&width=824"
+            },
+            "previewInfo": {
+              "templateToken": "c5389233..f9c58b2a-e04f-4251-a983-6eb421ba478d",
+              "designId": "08d97ecd-d8cf-4336-8d3a-1f009c1f08f6",
+              "dps": "f9c58b2a-e04f-4251-a983-6eb421ba478d",
+              "aspectRatio": 1.71055579185486,
+              "finishType": "None",
+              "scenes": {
+                "gallery": {
+                  "uri": "https://scenes.documents.cimpress.io/v3/scenes:generate?data=lY%2FBbsMgEET%2FZc7Ish27TfiGHiK1tyoHAgij2mDBWolr8e%2BVcdQ06qW9rGZHzNthwcUq6sD3dcPQaWs6Am%2F2NUPsPYEvGIXR4BXDIOLHatA8anBQsANSYpDekb7mt7ETyl9WJX3vwyoCeMlg8jznKcCrtkwMwpleZ0vZSMLJbYn2cxVFWa30MXg1yUy%2FVcWhqJ5rOeBeGG2xe9qsOJ0jBUH6R1XT%2BxhnJLaVzvUc%2BSlE8PcFsvdRK3AKk2aIJAIdvXX55hUcZVE1mT3fl9u%2F%2FRRetRm0ow11O%2FhinX7zYNBOPaAORbn7hUrsn8G2qOu%2FBh%2FKfwdP6ZRS%2BgI%3D",
+                  "aspectRatio": 1.70954356846473,
+                  "sceneType": "Dynamic"
+                }
+              },
+              "imageCacheVersion": null,
+              "instructionsUrl": "https://instructions.documents.cimpress.io/v3/instructions:preview?ignoreProjection=True&documentUri=https%3A%2F%2Fdesign-specifications.design.vpsvc.com%2Fv2%2FrenderDocuments%2Fproducts%2FPRD-IYXT1T3V%2F44%2Ftemplates%2Fc5389233..f9c58b2a-e04f-4251-a983-6eb421ba478d%3Fculture%3Den-us%26useFakeFamily%3Dfalse%26requester%3Dgallery-content-query%26optionSelections%255BFinish%255D%3DNone%26optionSelections%255BBacksides%255D%3DBlank%26optionSelections%255BShape%255D%3DStandard%26optionSelections%255BCorners%255D%3DStandard Corners%26optionSelections%255BThickness%255D%3DStandard%26optionSelections%255BSubstrate%255D%3DGlossy%26optionSelections%255BProduct Orientation%255D%3DHorizontal%26optionSelections%255BConnected Cards%255D%3DNone"
+            },
+            "isLightColor": false,
+            "externalId": "c5389233..f9c58b2a-e04f-4251-a983-6eb421ba478d"
+          }
+        ],
+        "selectedColorSwatchDesignId": "5389231",
+        "productOptions": {
+          "Finish": "None",
+          "Shape": "Standard",
+          "Corners": "Standard Corners",
+          "Substrate": "Glossy",
+          "Product Orientation": "Horizontal"
+        },
+        "fullProductOptions": {
+          "Finish": "None",
+          "Backsides": "Blank",
+          "Shape": "Standard",
+          "Corners": "Standard Corners",
+          "Thickness": "Standard",
+          "Substrate": "Glossy",
+          "Product Orientation": "Horizontal",
+          "Connected Cards": "None"
+        },
+        "keywords": null,
+        "categoryNames": null,
+        "categoryKeys": null,
+        "templateUseCases": [
+          "5a990374-9b99-461c-a36e-38468d27632e",
+          "a6cfb9a6-dffe-443c-abcf-5ad9bc8583bb",
+          "d731be47-e357-4611-b163-6eff79393b43",
+          "f530669d-b554-43c0-9e83-04c254cb8176",
+          "762ea34f-c2d8-4709-bcea-f64f2c674d39"
+        ],
+        "numberOfPlaceholders": "0",
+        "colorComposition": [
+          {
+            "color": "#FCFDFD",
+            "weight": 73
+          },
+          {
+            "color": "#DEEFEE",
+            "weight": 21
+          },
+          {
+            "color": "#E4D5A2",
+            "weight": 4
+          }
+        ],
+        "designColors": [
+          {
+            "rgb": {
+              "r": 252,
+              "g": 253,
+              "b": 253
+            },
+            "weight": 73
+          },
+          {
+            "rgb": {
+              "r": 222,
+              "g": 239,
+              "b": 238
+            },
+            "weight": 21
+          },
+          {
+            "rgb": {
+              "r": 228,
+              "g": 213,
+              "b": 162
+            },
+            "weight": 4
+          }
+        ],
+        "differentialColors": [
+          {
+            "color": "#F9FCFC",
+            "weight": 38
+          },
+          {
+            "color": "#E9F5F5",
+            "weight": 36
+          },
+          {
+            "color": "#D7EBEC",
+            "weight": 25
+          }
+        ],
+        "designCreationType": "Static",
+        "availableOptionsForExpansion": {
+          "Finish": [],
+          "Shape": [],
+          "Corners": [
+            "Rounded Corners"
+          ],
+          "Substrate": [
+            "Ultra Thick",
+            "Linen",
+            "Uncoated",
+            "Soft Touch",
+            "Kraft",
+            "Pearl",
+            "Matte",
+            "Bamboo",
+            "Hemp",
+            "Recycled Matte",
+            "Natural Textured"
+          ],
+          "Product Orientation": []
+        },
+        "availableTemplateUseCasesForExpansion": {
+
+        },
+        "externalId": "c5389231..f9c58b2a-e04f-4251-a983-6eb421ba478d",
+        "templateUseCase": "5a990374-9b99-461c-a36e-38468d27632e",
+        "boostInfo": null
+      }
+    ],
+    "facets": [
+      {
+        "facetType": "Attribute",
+        "facet": "Product Orientation_Vertical",
+        "count": 1
+      }
+    ],
+    "numFound": 128,
+    "debugState": null,
+    "boostInfo": null
+  },
+  "offset": 0,
+  "length": 2,
+  "total": 128
+}
